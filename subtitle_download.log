@@ -1,0 +1,420 @@
+2025-05-04 11:46:05,463 - ERROR - �Ҳ����ļ�: youtube��Ƶ����/0504.txt
+2025-05-04 11:46:24,475 - ERROR - 找不到文件: youtube视频链接\0504.txt
+2025-05-04 11:46:45,016 - INFO - 开始处理文件: youtube视频链接\0504
+2025-05-04 11:46:45,656 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=CeztgUiEDZA: HTTP Error 400: Bad Request
+2025-05-04 11:46:46,120 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=IbTlagfXMws: HTTP Error 400: Bad Request
+2025-05-04 11:46:46,121 - INFO - 处理完成。成功下载 0/2 个视频的字幕
+2025-05-04 11:47:20,266 - INFO - 开始处理文件: youtube视频链接\0504
+2025-05-04 11:47:20,992 - WARNING - HTTP错误 400，等待 5 秒后重试...
+2025-05-04 11:47:26,503 - WARNING - HTTP错误 400，等待 10 秒后重试...
+2025-05-04 11:47:36,963 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=CeztgUiEDZA: HTTP Error 400
+2025-05-04 11:47:39,417 - WARNING - HTTP错误 400，等待 5 秒后重试...
+2025-05-04 11:47:44,763 - WARNING - HTTP错误 400，等待 10 秒后重试...
+2025-05-04 11:47:55,189 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=IbTlagfXMws: HTTP Error 400
+2025-05-04 11:49:44,174 - INFO - 开始处理文件: youtube视频链接\0504.txt
+2025-05-04 11:49:44,742 - WARNING - HTTP错误 400，等待 5 秒后重试...
+2025-05-04 11:49:50,220 - WARNING - HTTP错误 400，等待 10 秒后重试...
+2025-05-04 11:50:00,628 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=CeztgUiEDZA: HTTP Error 400
+2025-05-04 11:50:03,129 - WARNING - HTTP错误 400，等待 5 秒后重试...
+2025-05-04 11:50:11,363 - WARNING - 发生错误: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)>，等待 10 秒后重试...
+2025-05-04 11:50:21,827 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=IbTlagfXMws: HTTP Error 400
+2025-05-04 11:50:23,829 - INFO - 处理完成。成功下载 0/2 个视频的字幕
+2025-05-04 11:51:31,776 - INFO - 开始处理文件: youtube视频链接\0504.txt
+2025-05-04 11:51:32,442 - WARNING - HTTP错误 400，等待 5 秒后重试...
+2025-05-04 11:51:38,238 - WARNING - HTTP错误 400，等待 10 秒后重试...
+2025-05-04 11:51:48,738 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=CeztgUiEDZA: HTTP Error 400
+2025-05-04 11:51:51,309 - WARNING - HTTP错误 400，等待 5 秒后重试...
+2025-05-04 11:51:56,637 - WARNING - HTTP错误 400，等待 10 秒后重试...
+2025-05-04 11:52:06,979 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=IbTlagfXMws: HTTP Error 400
+2025-05-04 11:52:08,980 - INFO - 处理完成。成功下载 0/2 个视频的字幕
+2025-05-04 11:53:46,139 - INFO - 开始处理文件: youtube视频链接\0504.txt
+2025-05-04 11:54:05,015 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 11:54:05,022 - WARNING - 发生错误: string indices must be integers, not 'str'，等待 5 秒后重试...
+2025-05-04 11:54:16,425 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 11:54:16,429 - WARNING - 发生错误: string indices must be integers, not 'str'，等待 10 秒后重试...
+2025-05-04 11:54:32,295 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 11:54:32,300 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=CeztgUiEDZA: string indices must be integers, not 'str'
+2025-05-04 11:54:39,712 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 11:54:39,720 - WARNING - 发生错误: string indices must be integers, not 'str'，等待 5 秒后重试...
+2025-05-04 11:54:51,658 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 11:54:51,671 - WARNING - 发生错误: string indices must be integers, not 'str'，等待 10 秒后重试...
+2025-05-04 11:55:09,108 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 11:55:09,116 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=IbTlagfXMws: string indices must be integers, not 'str'
+2025-05-04 11:55:11,122 - INFO - 处理完成。成功下载 0/2 个视频的字幕
+2025-05-04 11:58:25,352 - INFO - 开始处理文件: youtube视频链接\0504.txt
+2025-05-04 11:58:31,892 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 11:58:39,825 - WARNING - 未找到字幕文件: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 11:58:48,149 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 11:58:55,942 - WARNING - 未找到字幕文件: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 11:58:57,952 - INFO - 处理完成。成功下载 0/2 个视频的字幕
+2025-05-04 12:00:06,616 - INFO - 开始处理文件: youtube视频链接\0504.txt
+2025-05-04 12:00:15,916 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 12:00:28,846 - INFO - 成功下载内容: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill\Kill That Weak Version Of Yourself  Napoleon Hill.info.json
+2025-05-04 12:00:40,041 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 12:00:48,338 - INFO - 成功下载内容: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill.info.json
+2025-05-04 12:00:50,349 - INFO - 处理完成。成功下载 2/2 个视频的内容
+2025-05-04 12:03:03,630 - INFO - 开始处理文件: youtube视频链接\0504.txt
+2025-05-04 12:03:18,844 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 12:03:32,185 - INFO - 成功提取纯文本脚本: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill\Kill That Weak Version Of Yourself  Napoleon Hill_script.txt
+2025-05-04 12:03:49,378 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 12:03:57,828 - INFO - 成功提取纯文本脚本: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill_script.txt
+2025-05-04 12:03:59,845 - INFO - 处理完成。成功下载 2/2 个视频的内容
+2025-05-04 12:04:17,576 - INFO - 开始处理文件: youtube视频链接\0504.txt
+2025-05-04 12:04:23,827 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 12:04:30,891 - INFO - 成功提取纯文本脚本: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill\Kill That Weak Version Of Yourself  Napoleon Hill_script.txt
+2025-05-04 12:04:40,160 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] IbTlagfXMws: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies，等待 5 秒后重试...
+2025-05-04 12:04:51,551 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 12:04:57,957 - INFO - 成功提取纯文本脚本: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill_script.txt
+2025-05-04 12:04:59,964 - INFO - 处理完成。成功下载 2/2 个视频的内容
+2025-05-04 12:16:32,530 - INFO - 开始处理文件: youtube视频链接\0504.txt
+2025-05-04 12:16:39,704 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 12:16:48,781 - INFO - 成功提取纯文本脚本: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill\Kill That Weak Version Of Yourself  Napoleon Hill_script.txt
+2025-05-04 12:16:57,670 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 12:17:04,399 - INFO - 成功提取纯文本脚本: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill_script.txt
+2025-05-04 12:17:06,407 - INFO - 处理完成。成功下载 2/2 个视频的内容
+2025-05-04 12:24:36,129 - ERROR - 找不到文件: 0505.txt
+2025-05-04 12:24:36,136 - INFO - 请确认文件路径是否正确
+2025-05-04 12:26:29,543 - ERROR - 找不到文件: 0505.txt
+2025-05-04 12:26:29,545 - INFO - 请确认文件路径是否正确
+2025-05-04 12:26:43,408 - INFO - 开始处理文件: youtube视频链接/0505.txt
+2025-05-04 12:26:50,448 - INFO - 正在处理视频: Five Steps To Go From Average To Fortune | Napoleon Hill
+2025-05-04 12:26:59,137 - INFO - 成功提取纯文本脚本: subtitles\Five Steps To Go From Average To Fortune  Napoleon Hill\Five Steps To Go From Average To Fortune  Napoleon Hill_script.txt
+2025-05-04 12:27:01,171 - INFO - 处理完成。成功下载 1/1 个视频的内容
+2025-05-04 12:30:31,765 - INFO - 开始处理文件: youtube视频链接/0505.txt
+2025-05-04 12:30:39,877 - INFO - 正在处理视频: Five Steps To Go From Average To Fortune | Napoleon Hill
+2025-05-04 12:30:49,543 - INFO - 成功提取纯文本脚本: subtitles\Five Steps To Go From Average To Fortune  Napoleon Hill\原文.txt
+2025-05-04 12:30:51,549 - INFO - 处理完成。成功下载 1/1 个视频的内容
+2025-05-04 12:30:54,557 - INFO - 开始处理文件: youtube视频链接/0505.txt
+2025-05-04 12:31:03,501 - INFO - 正在处理视频: Five Steps To Go From Average To Fortune | Napoleon Hill
+2025-05-04 12:31:16,434 - INFO - 成功提取纯文本脚本: subtitles\Five Steps To Go From Average To Fortune  Napoleon Hill\原文.txt
+2025-05-04 12:31:18,441 - INFO - 处理完成。成功下载 1/1 个视频的内容
+2025-05-04 12:31:41,948 - INFO - 开始处理文件: youtube视频链接/0505.txt
+2025-05-04 12:31:48,713 - INFO - 正在处理视频: Five Steps To Go From Average To Fortune | Napoleon Hill
+2025-05-04 12:31:54,468 - INFO - 成功提取纯文本脚本并保存到: subtitles\Five Steps To Go From Average To Fortune  Napoleon Hill
+2025-05-04 12:31:56,474 - INFO - 处理完成。成功下载 1/1 个视频的内容
+2025-05-04 12:33:15,210 - INFO - 开始处理文件: youtube视频链接/0504.txt
+2025-05-04 12:33:27,003 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 12:33:40,106 - INFO - 成功提取纯文本脚本并保存到: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill
+2025-05-04 12:33:49,364 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 12:33:59,170 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] IbTlagfXMws: Requested format is not available. Use --list-formats for a list of available formats，等待 5 秒后重试...
+2025-05-04 12:34:10,230 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 12:34:19,528 - INFO - 成功提取纯文本脚本并保存到: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill
+2025-05-04 12:34:21,546 - INFO - 处理完成。成功下载 2/2 个视频的内容
+2025-05-04 16:17:20,995 - INFO - 开始处理文件: youtube视频链接/0505.txt
+2025-05-04 16:17:29,381 - INFO - 正在处理视频: Five Steps To Go From Average To Fortune | Napoleon Hill
+2025-05-04 16:17:33,978 - INFO - 成功提取纯文本脚本并保存到: subtitles\Five Steps To Go From Average To Fortune  Napoleon Hill
+2025-05-04 16:17:33,978 - INFO - 开始自动改写文案...
+2025-05-04 16:17:33,979 - INFO - 开始改写文本...
+2025-05-04 16:17:33,984 - INFO - 已自动改写并保存到: subtitles\Five Steps To Go From Average To Fortune  Napoleon Hill\改写后的.txt
+2025-05-04 16:17:35,988 - INFO - 处理完成。成功下载并改写 1/1 个视频的内容
+2025-05-04 16:25:56,678 - INFO - 开始处理文件: youtube视频链接/0504.txt
+2025-05-04 16:26:01,973 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 16:26:08,417 - INFO - 成功提取纯文本脚本并保存到: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill
+2025-05-04 16:26:08,417 - INFO - 开始自动改写文案...
+2025-05-04 16:26:08,419 - INFO - 开始改写文本...
+2025-05-04 16:26:08,424 - INFO - 已自动改写并保存到: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill\改写后的.txt
+2025-05-04 16:26:14,320 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 16:26:18,325 - INFO - 成功提取纯文本脚本并保存到: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill
+2025-05-04 16:26:18,325 - INFO - 开始自动改写文案...
+2025-05-04 16:26:18,326 - INFO - 开始改写文本...
+2025-05-04 16:26:18,333 - INFO - 已自动改写并保存到: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill\改写后的.txt
+2025-05-04 16:26:20,340 - INFO - 处理完成。成功下载并改写 2/2 个视频的内容
+2025-05-04 16:28:19,124 - INFO - 开始处理文件: youtube视频链接/0504.txt
+2025-05-04 16:28:29,621 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 16:28:40,518 - INFO - 成功提取纯文本脚本并保存到: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill
+2025-05-04 16:28:40,520 - INFO - 开始自动改写文案...
+2025-05-04 16:28:40,520 - INFO - 开始改写文本...
+2025-05-04 16:28:40,529 - INFO - 已自动改写并保存到: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill\改写后的.txt
+2025-05-04 16:28:46,012 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 16:28:57,923 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] IbTlagfXMws: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies，等待 5 秒后重试...
+2025-05-04 16:29:07,242 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 16:29:12,394 - INFO - 成功提取纯文本脚本并保存到: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill
+2025-05-04 16:29:12,395 - INFO - 开始自动改写文案...
+2025-05-04 16:29:12,396 - INFO - 开始改写文本...
+2025-05-04 16:29:12,406 - INFO - 已自动改写并保存到: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill\改写后的.txt
+2025-05-04 16:29:14,410 - INFO - 处理完成。成功下载并改写 2/2 个视频的内容
+2025-05-04 16:31:53,941 - INFO - 开始处理文件: youtube视频链接/0504.txt
+2025-05-04 16:32:03,823 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 16:32:11,568 - INFO - 成功提取纯文本脚本并保存到: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill
+2025-05-04 16:32:11,569 - INFO - 准备改写文案...
+2025-05-04 16:32:11,571 - INFO - 已创建改写指南文件: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill\改写后的.txt
+2025-05-04 16:32:17,677 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 16:32:22,164 - INFO - 成功提取纯文本脚本并保存到: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill
+2025-05-04 16:32:22,165 - INFO - 准备改写文案...
+2025-05-04 16:32:22,170 - INFO - 已创建改写指南文件: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill\改写后的.txt
+2025-05-04 16:32:24,178 - INFO - 处理完成。成功下载 2/2 个视频的内容
+2025-05-04 16:32:26,274 - INFO - 开始处理文件: youtube视频链接/0504.txt
+2025-05-04 16:32:31,280 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 16:32:36,288 - INFO - 成功提取纯文本脚本并保存到: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill
+2025-05-04 16:32:36,289 - INFO - 准备改写文案...
+2025-05-04 16:32:36,290 - INFO - 文件夹已存在真实改写内容，跳过改写
+2025-05-04 16:32:42,212 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 16:32:46,809 - INFO - 成功提取纯文本脚本并保存到: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill
+2025-05-04 16:32:46,809 - INFO - 准备改写文案...
+2025-05-04 16:32:46,833 - INFO - 文件夹已存在真实改写内容，跳过改写
+2025-05-04 16:32:48,839 - INFO - 处理完成。成功下载 2/2 个视频的内容
+2025-05-04 16:37:21,021 - INFO - 开始处理文件: youtube视频链接/0504.txt
+2025-05-04 16:37:25,619 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 16:37:30,960 - INFO - 成功提取纯文本脚本并保存到: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill
+2025-05-04 16:37:37,523 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 16:37:43,224 - INFO - 成功提取纯文本脚本并保存到: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill
+2025-05-04 16:37:45,229 - INFO - 处理完成。成功下载 2/2 个视频的内容
+2025-05-04 16:38:47,055 - INFO - 开始处理文件: youtube视频链接/0504.txt
+2025-05-04 16:38:53,480 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 16:38:58,271 - INFO - 成功提取纯文本脚本并保存到: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill
+2025-05-04 16:39:04,961 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 16:39:09,699 - INFO - 成功提取纯文本脚本并保存到: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill
+2025-05-04 16:39:11,703 - INFO - 处理完成。成功下载 2/2 个视频的内容
+2025-05-04 16:52:31,056 - INFO - 开始处理文件: youtube视频链接/0504.txt
+2025-05-04 16:52:36,359 - INFO - 正在处理视频: Kill That Weak Version Of Yourself | Napoleon Hill
+2025-05-04 16:52:43,495 - INFO - 成功提取纯文本脚本并保存到: subtitles\Kill That Weak Version Of Yourself  Napoleon Hill
+2025-05-04 16:52:51,953 - INFO - 正在处理视频: Focus On Yourself To Become MENTALLY Stronger | Napoleon Hill
+2025-05-04 16:52:59,464 - INFO - 成功提取纯文本脚本并保存到: subtitles\Focus On Yourself To Become MENTALLY Stronger  Napoleon Hill
+2025-05-04 16:53:01,524 - INFO - 处理完成。成功下载 2/2 个视频的内容
+2025-05-04 16:56:41,988 - INFO - 开始处理文件: youtube视频链接/0504.txt
+2025-05-04 16:56:45,409 - INFO - 正在处理视频: Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...
+2025-05-04 16:56:45,414 - WARNING - 发生错误: [Errno 2] No such file or directory: "subtitles\\Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...\\视频描述.txt"，等待 5 秒后重试...
+2025-05-04 16:56:53,852 - INFO - 正在处理视频: Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...
+2025-05-04 16:56:53,855 - WARNING - 发生错误: [Errno 2] No such file or directory: "subtitles\\Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...\\视频描述.txt"，等待 10 秒后重试...
+2025-05-04 16:57:07,499 - INFO - 正在处理视频: Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...
+2025-05-04 16:57:07,501 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=N-BWOKvjlwI: [Errno 2] No such file or directory: "subtitles\\Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...\\视频描述.txt"
+2025-05-04 16:57:17,677 - INFO - 正在处理视频: Boss Quickly Dismissed Me After 15 Years; But I Knew It Beforehand. They'd No Idea What Was Coming
+2025-05-04 16:57:21,116 - INFO - 成功提取纯文本脚本并保存到: subtitles\Boss Quickly Dismissed Me After 15 Years; But I Knew It Beforehand. They'd No Idea What Was Coming
+2025-05-04 16:57:27,806 - INFO - 正在处理视频: Gave My Parents A Luxurious 1-Week Trip To Europe With Me, But They Took My Jobless Sister Instead.
+2025-05-04 16:57:33,175 - WARNING - 未找到字幕文件: Gave My Parents A Luxurious 1-Week Trip To Europe With Me, But They Took My Jobless Sister Instead.
+2025-05-04 16:57:38,626 - INFO - 正在处理视频: Boss Fired Me 3 Days Before My Pension Vested After 29 Years With The Company. I Made A Phone Call.
+2025-05-04 16:57:45,201 - WARNING - 未找到字幕文件: Boss Fired Me 3 Days Before My Pension Vested After 29 Years With The Company. I Made A Phone Call.
+2025-05-04 16:57:50,397 - INFO - 正在处理视频: My Brother Ruined The Hotel I Saved. I Made Him Regret It In The Best Way.
+2025-05-04 16:57:54,030 - WARNING - 未找到字幕文件: My Brother Ruined The Hotel I Saved. I Made Him Regret It In The Best Way.
+2025-05-04 16:58:02,970 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] hXaUAYJCU-c: Requested format is not available. Use --list-formats for a list of available formats，等待 5 秒后重试...
+2025-05-04 16:58:11,763 - INFO - 正在处理视频: Family Lied To Me They Cancelled Christmas So That I Wouldn't Go. When They Called Me Next Day...
+2025-05-04 16:58:11,766 - WARNING - 发生错误: [Errno 2] No such file or directory: "subtitles\\Family Lied To Me They Cancelled Christmas So That I Wouldn't Go. When They Called Me Next Day...\\视频描述.txt"，等待 10 秒后重试...
+2025-05-04 16:58:25,447 - INFO - 正在处理视频: Family Lied To Me They Cancelled Christmas So That I Wouldn't Go. When They Called Me Next Day...
+2025-05-04 16:58:25,449 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=hXaUAYJCU-c: [Errno 2] No such file or directory: "subtitles\\Family Lied To Me They Cancelled Christmas So That I Wouldn't Go. When They Called Me Next Day...\\视频描述.txt"
+2025-05-04 16:58:32,952 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] Hd_uZjQhr7A: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies，等待 5 秒后重试...
+2025-05-04 16:58:40,894 - INFO - 正在处理视频: Came Back From College And Found My Home Empty With My Belongings Left In Garbage Bags On The Porch.
+2025-05-04 16:58:44,722 - WARNING - 未找到字幕文件: Came Back From College And Found My Home Empty With My Belongings Left In Garbage Bags On The Porch.
+2025-05-04 16:58:50,335 - INFO - 正在处理视频: My Boss Fired Me For Job Hunting After Denying My Raises For 3 Years. She Didn't Expect One Thing...
+2025-05-04 16:58:50,338 - WARNING - 发生错误: [Errno 2] No such file or directory: "subtitles\\My Boss Fired Me For Job Hunting After Denying My Raises For 3 Years. She Didn't Expect One Thing...\\视频描述.txt"，等待 5 秒后重试...
+2025-05-04 16:58:59,157 - INFO - 正在处理视频: My Boss Fired Me For Job Hunting After Denying My Raises For 3 Years. She Didn't Expect One Thing...
+2025-05-04 16:58:59,160 - WARNING - 发生错误: [Errno 2] No such file or directory: "subtitles\\My Boss Fired Me For Job Hunting After Denying My Raises For 3 Years. She Didn't Expect One Thing...\\视频描述.txt"，等待 10 秒后重试...
+2025-05-04 16:59:13,124 - INFO - 正在处理视频: My Boss Fired Me For Job Hunting After Denying My Raises For 3 Years. She Didn't Expect One Thing...
+2025-05-04 16:59:13,127 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=ZFExDYJsHZs: [Errno 2] No such file or directory: "subtitles\\My Boss Fired Me For Job Hunting After Denying My Raises For 3 Years. She Didn't Expect One Thing...\\视频描述.txt"
+2025-05-04 16:59:18,897 - INFO - 正在处理视频: Father Created A Trust Fund Only For My Entitled Sister; I Stopped Paying For Their Vacation Home...
+2025-05-04 16:59:18,899 - WARNING - 发生错误: [Errno 2] No such file or directory: 'subtitles\\Father Created A Trust Fund Only For My Entitled Sister; I Stopped Paying For Their Vacation Home...\\视频描述.txt'，等待 5 秒后重试...
+2025-05-04 16:59:27,973 - INFO - 正在处理视频: Father Created A Trust Fund Only For My Entitled Sister; I Stopped Paying For Their Vacation Home...
+2025-05-04 16:59:27,976 - WARNING - 发生错误: [Errno 2] No such file or directory: 'subtitles\\Father Created A Trust Fund Only For My Entitled Sister; I Stopped Paying For Their Vacation Home...\\视频描述.txt'，等待 10 秒后重试...
+2025-05-04 16:59:44,641 - INFO - 正在处理视频: Father Created A Trust Fund Only For My Entitled Sister; I Stopped Paying For Their Vacation Home...
+2025-05-04 16:59:44,644 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=TKyJCnfAIFk: [Errno 2] No such file or directory: 'subtitles\\Father Created A Trust Fund Only For My Entitled Sister; I Stopped Paying For Their Vacation Home...\\视频描述.txt'
+2025-05-04 16:59:52,920 - INFO - 正在处理视频: My Stepdad Called, “I Sold Your Mountain Cabin To Settle My Gambling Debts!” He laughed. But Then...
+2025-05-04 16:59:52,922 - WARNING - 发生错误: [Errno 2] No such file or directory: 'subtitles\\My Stepdad Called, “I Sold Your Mountain Cabin To Settle My Gambling Debts!” He laughed. But Then...\\视频描述.txt'，等待 5 秒后重试...
+2025-05-04 17:00:00,937 - INFO - 正在处理视频: My Stepdad Called, “I Sold Your Mountain Cabin To Settle My Gambling Debts!” He laughed. But Then...
+2025-05-04 17:00:00,939 - WARNING - 发生错误: [Errno 2] No such file or directory: 'subtitles\\My Stepdad Called, “I Sold Your Mountain Cabin To Settle My Gambling Debts!” He laughed. But Then...\\视频描述.txt'，等待 10 秒后重试...
+2025-05-04 17:00:14,270 - INFO - 正在处理视频: My Stepdad Called, “I Sold Your Mountain Cabin To Settle My Gambling Debts!” He laughed. But Then...
+2025-05-04 17:00:14,272 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=v1I6uDR2S2Q: [Errno 2] No such file or directory: 'subtitles\\My Stepdad Called, “I Sold Your Mountain Cabin To Settle My Gambling Debts!” He laughed. But Then...\\视频描述.txt'
+2025-05-04 17:00:19,479 - INFO - 正在处理视频: Uncle Sent Me Video Of My Family Calling Me "Worthless Burden" While I'd Been Paying Their Mortgage.
+2025-05-04 17:00:22,719 - WARNING - 未找到字幕文件: Uncle Sent Me Video Of My Family Calling Me "Worthless Burden" While I'd Been Paying Their Mortgage.
+2025-05-04 17:00:28,280 - INFO - 正在处理视频: Mom Called Me A 'Desperate Failure' And 'Pathetic' Without Knowing My Cousin Was Livestreaming It.
+2025-05-04 17:00:32,684 - WARNING - 未找到字幕文件: Mom Called Me A 'Desperate Failure' And 'Pathetic' Without Knowing My Cousin Was Livestreaming It.
+2025-05-04 17:00:37,979 - INFO - 正在处理视频: Parents Only Paid Off My Sister's Student Loans After We Graduated Medical School Together. But I...
+2025-05-04 17:00:37,985 - WARNING - 发生错误: [Errno 2] No such file or directory: "subtitles\\Parents Only Paid Off My Sister's Student Loans After We Graduated Medical School Together. But I...\\视频描述.txt"，等待 5 秒后重试...
+2025-05-04 17:00:49,441 - INFO - 正在处理视频: Parents Only Paid Off My Sister's Student Loans After We Graduated Medical School Together. But I...
+2025-05-04 17:00:49,443 - WARNING - 发生错误: [Errno 2] No such file or directory: "subtitles\\Parents Only Paid Off My Sister's Student Loans After We Graduated Medical School Together. But I...\\视频描述.txt"，等待 10 秒后重试...
+2025-05-04 17:01:03,371 - INFO - 正在处理视频: Parents Only Paid Off My Sister's Student Loans After We Graduated Medical School Together. But I...
+2025-05-04 17:01:03,375 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=TWI79bp_T8o: [Errno 2] No such file or directory: "subtitles\\Parents Only Paid Off My Sister's Student Loans After We Graduated Medical School Together. But I...\\视频描述.txt"
+2025-05-04 17:01:05,376 - INFO - 处理完成。成功下载 1/13 个视频的内容
+2025-05-04 17:39:41,874 - INFO - 开始处理文件: youtube视频链接/0504.txt
+2025-05-04 17:39:47,967 - INFO - 正在处理视频: Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...
+2025-05-04 17:39:47,989 - WARNING - 发生错误: [Errno 2] No such file or directory: "subtitles\\Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...\\视频描述.txt"，等待 5 秒后重试...
+2025-05-04 17:39:56,490 - INFO - 正在处理视频: Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...
+2025-05-04 17:39:56,493 - WARNING - 发生错误: [Errno 2] No such file or directory: "subtitles\\Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...\\视频描述.txt"，等待 10 秒后重试...
+2025-05-04 17:40:10,562 - INFO - 正在处理视频: Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...
+2025-05-04 17:40:10,566 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=N-BWOKvjlwI: [Errno 2] No such file or directory: "subtitles\\Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...\\视频描述.txt"
+2025-05-04 17:40:16,824 - INFO - 正在处理视频: Boss Quickly Dismissed Me After 15 Years; But I Knew It Beforehand. They'd No Idea What Was Coming
+2025-05-04 17:40:20,866 - INFO - 成功提取纯文本脚本并保存到: subtitles\Boss Quickly Dismissed Me After 15 Years; But I Knew It Beforehand. They'd No Idea What Was Coming
+2025-05-04 17:40:26,857 - INFO - 正在处理视频: Gave My Parents A Luxurious 1-Week Trip To Europe With Me, But They Took My Jobless Sister Instead.
+2025-05-04 17:40:30,720 - WARNING - 未找到字幕文件: Gave My Parents A Luxurious 1-Week Trip To Europe With Me, But They Took My Jobless Sister Instead.
+2025-05-04 17:40:36,549 - INFO - 正在处理视频: Boss Fired Me 3 Days Before My Pension Vested After 29 Years With The Company. I Made A Phone Call.
+2025-05-04 17:40:40,829 - WARNING - 未找到字幕文件: Boss Fired Me 3 Days Before My Pension Vested After 29 Years With The Company. I Made A Phone Call.
+2025-05-04 17:40:46,252 - INFO - 正在处理视频: My Brother Ruined The Hotel I Saved. I Made Him Regret It In The Best Way.
+2025-05-04 17:40:49,695 - WARNING - 未找到字幕文件: My Brother Ruined The Hotel I Saved. I Made Him Regret It In The Best Way.
+2025-05-04 17:40:54,762 - INFO - 正在处理视频: Family Lied To Me They Cancelled Christmas So That I Wouldn't Go. When They Called Me Next Day...
+2025-05-04 17:40:54,767 - WARNING - 发生错误: [Errno 2] No such file or directory: "subtitles\\Family Lied To Me They Cancelled Christmas So That I Wouldn't Go. When They Called Me Next Day...\\视频描述.txt"，等待 5 秒后重试...
+2025-05-04 17:41:03,526 - INFO - 正在处理视频: Family Lied To Me They Cancelled Christmas So That I Wouldn't Go. When They Called Me Next Day...
+2025-05-04 17:41:03,531 - WARNING - 发生错误: [Errno 2] No such file or directory: "subtitles\\Family Lied To Me They Cancelled Christmas So That I Wouldn't Go. When They Called Me Next Day...\\视频描述.txt"，等待 10 秒后重试...
+2025-05-04 17:43:26,684 - INFO - 开始处理文件: youtube视频链接/0504.txt
+2025-05-04 17:43:30,036 - INFO - 正在处理视频: Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...
+2025-05-04 17:43:33,565 - INFO - 成功提取纯文本脚本并保存到: subtitles\Husband Announced He Was Leaving Me At Our Daughters Graduation But Started Scre
+2025-05-04 17:43:38,900 - INFO - 正在处理视频: Boss Quickly Dismissed Me After 15 Years; But I Knew It Beforehand. They'd No Idea What Was Coming
+2025-05-04 17:43:44,073 - INFO - 成功提取纯文本脚本并保存到: subtitles\Boss Quickly Dismissed Me After 15 Years But I Knew It Beforehand. Theyd No Idea
+2025-05-04 17:43:50,054 - INFO - 正在处理视频: Gave My Parents A Luxurious 1-Week Trip To Europe With Me, But They Took My Jobless Sister Instead.
+2025-05-04 17:43:53,709 - INFO - 成功提取纯文本脚本并保存到: subtitles\Gave My Parents A Luxurious 1-Week Trip To Europe With Me But They Took My Joble
+2025-05-04 17:43:59,146 - INFO - 正在处理视频: Boss Fired Me 3 Days Before My Pension Vested After 29 Years With The Company. I Made A Phone Call.
+2025-05-04 17:44:03,018 - INFO - 成功提取纯文本脚本并保存到: subtitles\Boss Fired Me 3 Days Before My Pension Vested After 29 Years With The Company. I
+2025-05-04 17:44:08,619 - INFO - 正在处理视频: My Brother Ruined The Hotel I Saved. I Made Him Regret It In The Best Way.
+2025-05-04 17:44:30,889 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] VVVM7I1nl2Y: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies，等待 5 秒后重试...
+2025-05-04 17:44:39,224 - INFO - 正在处理视频: My Brother Ruined The Hotel I Saved. I Made Him Regret It In The Best Way.
+2025-05-04 17:44:42,497 - INFO - 成功提取纯文本脚本并保存到: subtitles\My Brother Ruined The Hotel I Saved. I Made Him Regret It In The Best Way
+2025-05-04 17:44:50,210 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] hXaUAYJCU-c: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies，等待 5 秒后重试...
+2025-05-04 17:44:58,371 - INFO - 正在处理视频: Family Lied To Me They Cancelled Christmas So That I Wouldn't Go. When They Called Me Next Day...
+2025-05-04 17:45:02,080 - INFO - 成功提取纯文本脚本并保存到: subtitles\Family Lied To Me They Cancelled Christmas So That I Wouldnt Go. When They Calle
+2025-05-04 17:45:09,087 - INFO - 正在处理视频: Came Back From College And Found My Home Empty With My Belongings Left In Garbage Bags On The Porch.
+2025-05-04 17:45:12,506 - INFO - 成功提取纯文本脚本并保存到: subtitles\Came Back From College And Found My Home Empty With My Belongings Left In Garbag
+2025-05-04 17:45:17,765 - INFO - 正在处理视频: My Boss Fired Me For Job Hunting After Denying My Raises For 3 Years. She Didn't Expect One Thing...
+2025-05-04 17:45:17,766 - WARNING - 保存视频描述文件失败: [Errno 2] No such file or directory: 'subtitles\\My Boss Fired Me For Job Hunting After Denying My Raises For 3 Years. She Didnt \\视频描述.txt'
+2025-05-04 17:45:21,380 - INFO - 成功提取纯文本脚本并保存到: subtitles\video_8
+2025-05-04 17:45:34,976 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] TKyJCnfAIFk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies，等待 5 秒后重试...
+2025-05-04 17:45:43,028 - INFO - 正在处理视频: Father Created A Trust Fund Only For My Entitled Sister; I Stopped Paying For Their Vacation Home...
+2025-05-04 17:45:48,926 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] TKyJCnfAIFk: Requested format is not available. Use --list-formats for a list of available formats，等待 10 秒后重试...
+2025-05-04 17:46:04,770 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=TKyJCnfAIFk: [0;31mERROR:[0m [youtube] TKyJCnfAIFk: Requested format is not available. Use --list-formats for a list of available formats
+2025-05-04 17:46:10,238 - INFO - 正在处理视频: My Stepdad Called, “I Sold Your Mountain Cabin To Settle My Gambling Debts!” He laughed. But Then...
+2025-05-04 17:46:13,355 - INFO - 成功提取纯文本脚本并保存到: subtitles\My Stepdad Called I Sold Your Mountain Cabin To Settle My Gambling Debts He laug
+2025-05-04 17:46:18,570 - INFO - 正在处理视频: Uncle Sent Me Video Of My Family Calling Me "Worthless Burden" While I'd Been Paying Their Mortgage.
+2025-05-04 17:46:22,233 - INFO - 成功提取纯文本脚本并保存到: subtitles\Uncle Sent Me Video Of My Family Calling Me Worthless Burden While Id Been Payin
+2025-05-04 17:46:27,492 - INFO - 正在处理视频: Mom Called Me A 'Desperate Failure' And 'Pathetic' Without Knowing My Cousin Was Livestreaming It.
+2025-05-04 17:46:31,330 - INFO - 成功提取纯文本脚本并保存到: subtitles\Mom Called Me A Desperate Failure And Pathetic Without Knowing My Cousin Was Liv
+2025-05-04 17:46:42,668 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] TWI79bp_T8o: Requested format is not available. Use --list-formats for a list of available formats，等待 5 秒后重试...
+2025-05-04 17:46:52,536 - INFO - 正在处理视频: Parents Only Paid Off My Sister's Student Loans After We Graduated Medical School Together. But I...
+2025-05-04 17:46:57,127 - INFO - 成功提取纯文本脚本并保存到: subtitles\Parents Only Paid Off My Sisters Student Loans After We Graduated Medical School
+2025-05-04 17:47:03,063 - INFO - 正在处理视频: Boss Fired Me After 25 Years, Then 70% Of His Clients Closed Their Accounts. Little Did He Know...
+2025-05-04 17:47:06,728 - INFO - 成功提取纯文本脚本并保存到: subtitles\Boss Fired Me After 25 Years Then 70 Of His Clients Closed Their Accounts. Littl
+2025-05-04 17:47:08,732 - INFO - 处理完成。成功下载 13/14 个视频的内容
+2025-05-05 16:08:19,714 - INFO - 开始处理文件: youtube视频链接/0504.txt
+2025-05-05 16:08:32,559 - INFO - 正在处理视频: Seniors, 3 Foods You Should Never Reheat – And 3 You MUST Reheat | Senior Health Tips
+2025-05-05 16:08:41,668 - INFO - 成功提取纯文本脚本并保存到: subtitles\Seniors 3 Foods You Should Never Reheat  And 3 You MUST Reheat  Senior Health Ti
+2025-05-05 16:08:54,278 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] Z8GVF7uav6s: Requested format is not available. Use --list-formats for a list of available formats，等待 5 秒后重试...
+2025-05-05 16:09:05,776 - INFO - 正在处理视频: I'm 80. If You're in Your 50's, Watch This (Life Lessons From The Elderly)
+2025-05-05 16:09:13,559 - INFO - 成功提取纯文本脚本并保存到: subtitles\Im 80. If Youre in Your 50s Watch This Life Lessons From The Elderly
+2025-05-05 16:09:22,087 - INFO - 正在处理视频: Seniors, 3 Vegetables You Should NEVER Touch – And 3 You MUST Eat | Senior Health Tips
+2025-05-05 16:09:29,359 - INFO - 成功提取纯文本脚本并保存到: subtitles\Seniors 3 Vegetables You Should NEVER Touch  And 3 You MUST Eat  Senior Health T
+2025-05-05 16:09:37,481 - INFO - 正在处理视频: Seniors, Stop Eating 7 Worst Fruits - They Are Destroying Your Leg Strength | Senior Health Tips
+2025-05-05 16:09:46,999 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] qx_TDURBDCs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies，等待 5 秒后重试...
+2025-05-05 16:09:58,633 - INFO - 正在处理视频: Seniors, Stop Eating 7 Worst Fruits - They Are Destroying Your Leg Strength | Senior Health Tips
+2025-05-05 16:10:05,968 - INFO - 成功提取纯文本脚本并保存到: subtitles\Seniors Stop Eating 7 Worst Fruits - They Are Destroying Your Leg Strength  Seni
+2025-05-05 16:10:14,793 - INFO - 正在处理视频: Seniors, 3 Nuts You Should NEVER Touch – and 3 You MUST Eat | Senior Health Tips
+2025-05-05 16:10:27,792 - INFO - 成功提取纯文本脚本并保存到: subtitles\Seniors 3 Nuts You Should NEVER Touch  and 3 You MUST Eat  Senior Health Tips
+2025-05-05 16:10:39,805 - INFO - 正在处理视频: Seniors, 3 Exercises You Should NEVER Do – And 3 You MUST Do | Senior Health Tips
+2025-05-05 16:10:50,068 - INFO - 成功提取纯文本脚本并保存到: subtitles\Seniors 3 Exercises You Should NEVER Do  And 3 You MUST Do  Senior Health Tips
+2025-05-05 16:10:59,190 - INFO - 正在处理视频: Seniors, Stop Doing These 6 Exercises – They Are Destroying Your Knees | Senior Health Tips
+2025-05-05 16:11:09,718 - INFO - 成功提取纯文本脚本并保存到: subtitles\Seniors Stop Doing These 6 Exercises  They Are Destroying Your Knees  Senior Hea
+2025-05-05 16:11:17,986 - INFO - 正在处理视频: Seniors, 4 Fruits You Should NEVER Touch – And 4 You MUST Eat | Senior Health Tips
+2025-05-05 16:11:24,549 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] IeGlbXUDV6s: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies，等待 5 秒后重试...
+2025-05-05 16:11:35,078 - INFO - 正在处理视频: Seniors, 4 Fruits You Should NEVER Touch – And 4 You MUST Eat | Senior Health Tips
+2025-05-05 16:11:52,108 - INFO - 成功提取纯文本脚本并保存到: subtitles\Seniors 4 Fruits You Should NEVER Touch  And 4 You MUST Eat  Senior Health Tips
+2025-05-05 16:12:00,262 - INFO - 正在处理视频: Seniors, 3 Foods You Should NEVER Refrigerate – And 3 You MUST Keep Cold | Senior Health Tips
+2025-05-05 16:12:09,669 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] RrGCsy6j3fM: Requested format is not available. Use --list-formats for a list of available formats，等待 5 秒后重试...
+2025-05-05 16:12:22,547 - INFO - 正在处理视频: Seniors, 3 Foods You Should NEVER Refrigerate – And 3 You MUST Keep Cold | Senior Health Tips
+2025-05-05 16:12:29,256 - INFO - 成功提取纯文本脚本并保存到: subtitles\Seniors 3 Foods You Should NEVER Refrigerate  And 3 You MUST Keep Cold  Senior H
+2025-05-05 16:12:37,123 - INFO - 正在处理视频: 9 Things That Don't Make Sense After 70!
+2025-05-05 16:12:49,120 - INFO - 成功提取纯文本脚本并保存到: subtitles\9 Things That Dont Make Sense After 70
+2025-05-05 16:12:57,413 - INFO - 正在处理视频: 5 PEOPLE you MUST AVOID in OLD AGE | Even FAMILY | Advice From Old People
+2025-05-05 16:13:05,446 - INFO - 成功提取纯文本脚本并保存到: subtitles\5 PEOPLE you MUST AVOID in OLD AGE  Even FAMILY  Advice From Old People
+2025-05-05 16:13:13,530 - INFO - 正在处理视频: If You're 55-75 Years Old: 9 Things Never Share With Anyone
+2025-05-05 16:13:20,544 - INFO - 成功提取纯文本脚本并保存到: subtitles\If Youre 55-75 Years Old 9 Things Never Share With Anyone
+2025-05-05 16:13:29,347 - INFO - 正在处理视频: 9 Ugly Things You Do As You Get Older Without Realizing It That 99% of Older People Don't Know About
+2025-05-05 16:13:36,641 - INFO - 成功提取纯文本脚本并保存到: subtitles\9 Ugly Things You Do As You Get Older Without Realizing It That 99 of Older Peop
+2025-05-05 16:13:45,903 - INFO - 正在处理视频: Seniors, Stop Taking These 5 Vitamins – They Are Destroying Your Leg Strength | Senior Health Tips
+2025-05-05 16:13:54,547 - INFO - 成功提取纯文本脚本并保存到: subtitles\Seniors Stop Taking These 5 Vitamins  They Are Destroying Your Leg Strength  Sen
+2025-05-05 16:14:06,084 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] mY1Ia5cbMxc: Requested format is not available. Use --list-formats for a list of available formats，等待 5 秒后重试...
+2025-05-05 16:14:18,212 - INFO - 正在处理视频: 12 Ugly Habits in Old Age That Push People Away (But No One Dares to Tell You)
+2025-05-05 16:14:29,770 - INFO - 成功提取纯文本脚本并保存到: subtitles\12 Ugly Habits in Old Age That Push People Away But No One Dares to Tell You
+2025-05-05 16:14:38,151 - INFO - 正在处理视频: These 4 FRUITS Improve Circulation And Intimacy After 60 | Life Lessons From The Elderly
+2025-05-05 16:14:38,154 - WARNING - 保存视频描述文件失败: [Errno 2] No such file or directory: 'subtitles\\These 4 FRUITS Improve Circulation And Intimacy After 60  Life Lessons From The \\视频描述.txt'
+2025-05-05 16:14:46,559 - INFO - 成功提取纯文本脚本并保存到: subtitles\video_16
+2025-05-05 16:14:56,743 - INFO - 正在处理视频: This Is Why Many Elderly People Will Not Live Past 82! If You Are Old, You Need To See This Now
+2025-05-05 16:15:03,593 - INFO - 成功提取纯文本脚本并保存到: subtitles\This Is Why Many Elderly People Will Not Live Past 82 If You Are Old You Need To
+2025-05-05 16:15:17,024 - INFO - 正在处理视频: Doctor Warns: 5 Masturbation Secrets OLD Men Wish They Knew Sooner | Life Lessons From The Elderly
+2025-05-05 16:15:17,028 - WARNING - 保存视频描述文件失败: [Errno 2] No such file or directory: 'subtitles\\Doctor Warns 5 Masturbation Secrets OLD Men Wish They Knew Sooner  Life Lessons \\视频描述.txt'
+2025-05-05 16:15:31,117 - INFO - 成功提取纯文本脚本并保存到: subtitles\video_18
+2025-05-05 16:15:42,153 - INFO - 正在处理视频: These 9 FRUITS Improve Circulation and Intimacy After 60 | Life Lessons From The Elderly
+2025-05-05 16:15:42,157 - WARNING - 保存视频描述文件失败: [Errno 2] No such file or directory: 'subtitles\\These 9 FRUITS Improve Circulation and Intimacy After 60  Life Lessons From The \\视频描述.txt'
+2025-05-05 16:15:50,452 - INFO - 成功提取纯文本脚本并保存到: subtitles\video_19
+2025-05-05 16:15:58,375 - INFO - 正在处理视频: Doctor Warns: If You Don't Masturbate In Old Age, This Will Happen To You
+2025-05-05 16:16:06,022 - INFO - 成功提取纯文本脚本并保存到: subtitles\Doctor Warns If You Dont Masturbate In Old Age This Will Happen To You
+2025-05-05 16:16:16,718 - INFO - 正在处理视频: Doctor Warns: Masturbation Secrets OLD Men Wish They Knew Sooner | Life Lessons From The Elderly
+2025-05-05 16:16:22,671 - INFO - 成功提取纯文本脚本并保存到: subtitles\Doctor Warns Masturbation Secrets OLD Men Wish They Knew Sooner  Life Lessons Fr
+2025-05-05 16:16:29,233 - INFO - 正在处理视频: Top 3 Foods to Prevent Leg Cramps in Seniors: Strengthen Your Legs!
+2025-05-05 16:16:35,055 - INFO - 成功提取纯文本脚本并保存到: subtitles\Top 3 Foods to Prevent Leg Cramps in Seniors Strengthen Your Legs
+2025-05-05 16:16:41,798 - INFO - 正在处理视频: Top 7 Vitamins to Strengthen Your Legs! Prevent Leg Cramps in Seniors
+2025-05-05 16:16:50,382 - INFO - 成功提取纯文本脚本并保存到: subtitles\Top 7 Vitamins to Strengthen Your Legs Prevent Leg Cramps in Seniors
+2025-05-05 16:17:05,540 - INFO - 正在处理视频: Top 10 Foods to Prevent Leg Cramps in Seniors — Even at Night!
+2025-05-05 16:17:14,095 - INFO - 成功提取纯文本脚本并保存到: subtitles\Top 10 Foods to Prevent Leg Cramps in Seniors  Even at Night
+2025-05-05 16:17:25,488 - INFO - 正在处理视频: Best Veggies to Prevent a Heart Attack! Top 7 Vegetables
+2025-05-05 16:17:32,969 - INFO - 成功提取纯文本脚本并保存到: subtitles\Best Veggies to Prevent a Heart Attack Top 7 Vegetables
+2025-05-05 16:17:34,975 - INFO - 处理完成。成功下载 25/25 个视频的内容
+2025-05-05 16:24:42,966 - ERROR - 找不到文件: https://www.youtube.com/watch?v=0lC-ujAaJ6Y&pp=ygVYVGhlc2UgNCBGUlVJVFMgSW1wcm92ZSBDaXJjdWxhdGlvbiBBbmQgSW50aW1hY3kgQWZ0ZXIgNjAgfCBMaWZlIExlc3NvbnMgRnJvbSBUaGUgRWxkZXJseQ%3D%3D
+2025-05-05 16:24:42,967 - INFO - 请确认文件路径是否正确
+2025-05-05 16:30:34,875 - INFO - 开始处理文件: youtube视频链接/0505.txt
+2025-05-05 16:30:41,468 - INFO - 正在处理视频: If you are 65-80 years old and still do the following 8 things, you are a rare gem!
+2025-05-05 16:30:50,896 - INFO - 成功提取纯文本脚本并保存到: subtitles\If you are 65-80 years old and still do the following 8 things you are a rare ge
+2025-05-05 16:31:02,318 - INFO - 正在处理视频: Seniors: 5 People You Should Never Trust or Be Kind To
+2025-05-05 16:31:11,454 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] PHilwDIBkxg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies，等待 5 秒后重试...
+2025-05-05 16:31:22,115 - INFO - 正在处理视频: Seniors: 5 People You Should Never Trust or Be Kind To
+2025-05-05 16:31:34,068 - INFO - 成功提取纯文本脚本并保存到: subtitles\Seniors 5 People You Should Never Trust or Be Kind To
+2025-05-05 16:31:46,283 - INFO - 正在处理视频: After 65, Try Doing This In The Morning – You Could Live 30 More Years
+2025-05-05 16:31:57,909 - INFO - 成功提取纯文本脚本并保存到: subtitles\After 65 Try Doing This In The Morning  You Could Live 30 More Years
+2025-05-05 16:32:05,109 - INFO - 正在处理视频: I’m 77 Years Old and What I Learned After Two Months in a Nursing Home.
+2025-05-05 16:32:11,227 - INFO - 成功提取纯文本脚本并保存到: subtitles\Im 77 Years Old and What I Learned After Two Months in a Nursing Home
+2025-05-05 16:32:19,099 - INFO - 正在处理视频: Only 3 Vitamins Are Needed To Help Improve Erections After 60 — Older Men Should Watch This.
+2025-05-05 16:32:19,101 - WARNING - 保存视频描述文件失败: [Errno 2] No such file or directory: 'subtitles\\Only 3 Vitamins Are Needed To Help Improve Erections After 60  Older Men Should \\视频描述.txt'
+2025-05-05 16:32:26,283 - INFO - 成功提取纯文本脚本并保存到: subtitles\video_5
+2025-05-05 16:32:33,607 - INFO - 正在处理视频: The surprising effects on the prostate when older men relieve themselves daily.
+2025-05-05 16:32:39,941 - INFO - 成功提取纯文本脚本并保存到: subtitles\The surprising effects on the prostate when older men relieve themselves daily
+2025-05-05 16:32:49,532 - INFO - 正在处理视频: Essential Factors for Senior Men's Health and Lasting Marital Happiness
+2025-05-05 16:32:55,640 - INFO - 成功提取纯文本脚本并保存到: subtitles\Essential Factors for Senior Mens Health and Lasting Marital Happiness
+2025-05-05 16:33:06,145 - INFO - 正在处理视频: 12 things seniors with clean homes do every day
+2025-05-05 16:33:13,358 - INFO - 成功提取纯文本脚本并保存到: subtitles\12 things seniors with clean homes do every day
+2025-05-05 16:33:20,686 - INFO - 正在处理视频: 12 Ugly Things Seniors Do as They Age That No One Tells You
+2025-05-05 16:33:26,432 - INFO - 成功提取纯文本脚本并保存到: subtitles\12 Ugly Things Seniors Do as They Age That No One Tells You
+2025-05-05 16:33:35,357 - INFO - 正在处理视频: 10 Cleaning Hacks when you are Elderly, Disabled, and in Pain ( Lazy but Effective )
+2025-05-05 16:33:41,438 - INFO - 成功提取纯文本脚本并保存到: subtitles\10 Cleaning Hacks when you are Elderly Disabled and in Pain  Lazy but Effective
+2025-05-05 16:33:49,904 - INFO - 正在处理视频: The 10 BEST Foods For Seniors With No Carbs & No Sugar (Must Watch!)
+2025-05-05 16:33:55,685 - INFO - 成功提取纯文本脚本并保存到: subtitles\The 10 BEST Foods For Seniors With No Carbs  No Sugar Must Watch
+2025-05-05 16:34:03,153 - INFO - 正在处理视频: 9 Things To STOP DOING After 60 - For a Happier, Healthier Retirement
+2025-05-05 16:34:14,432 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] 1yB0tvS-R30: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies，等待 5 秒后重试...
+2025-05-05 16:34:25,059 - INFO - 正在处理视频: 9 Things To STOP DOING After 60 - For a Happier, Healthier Retirement
+2025-05-05 16:34:31,774 - INFO - 成功提取纯文本脚本并保存到: subtitles\9 Things To STOP DOING After 60 - For a Happier Healthier Retirement
+2025-05-05 16:34:40,644 - INFO - 正在处理视频: Wash These 5 Body Parts DAILY to Live a Longer Life | Life Advice
+2025-05-05 16:34:49,019 - INFO - 成功提取纯文本脚本并保存到: subtitles\Wash These 5 Body Parts DAILY to Live a Longer Life  Life Advice
+2025-05-05 16:34:59,497 - INFO - 正在处理视频: 10 Professional Cleaning Secrets to Make Your Home Smell Amazing — Always
+2025-05-05 16:35:06,866 - INFO - 成功提取纯文本脚本并保存到: subtitles\10 Professional Cleaning Secrets to Make Your Home Smell Amazing  Always
+2025-05-05 16:35:17,492 - INFO - 正在处理视频: 9 Things You Should Stop Spending Money on in Old Age
+2025-05-05 16:35:22,701 - INFO - 成功提取纯文本脚本并保存到: subtitles\9 Things You Should Stop Spending Money on in Old Age
+2025-05-05 16:35:31,225 - INFO - 正在处理视频: 5 Things Organized Women Do Every Day (And You Can Copy Them Too)
+2025-05-05 16:35:36,481 - INFO - 成功提取纯文本脚本并保存到: subtitles\5 Things Organized Women Do Every Day And You Can Copy Them Too
+2025-05-05 16:35:44,149 - INFO - 正在处理视频: 10 Genius Ways to Find Hidden Storage Space in Your Home When Decluttering
+2025-05-05 16:35:55,028 - INFO - 成功提取纯文本脚本并保存到: subtitles\10 Genius Ways to Find Hidden Storage Space in Your Home When Decluttering
+2025-05-05 16:36:06,096 - INFO - 正在处理视频: 8 Deadly Footwear Choices Stealing Your Golden Years (Plus 3 Life-Changing Solutions for Seniors)
+2025-05-05 16:36:13,201 - INFO - 成功提取纯文本脚本并保存到: subtitles\8 Deadly Footwear Choices Stealing Your Golden Years Plus 3 Life-Changing Soluti
+2025-05-05 16:36:24,984 - INFO - 正在处理视频: 7 Walking Secrets Older Adults Use: Why Those Who Walk Like This Rarely Fall Down After 60
+2025-05-05 16:36:33,634 - INFO - 成功提取纯文本脚本并保存到: subtitles\7 Walking Secrets Older Adults Use Why Those Who Walk Like This Rarely Fall Down
+2025-05-05 16:36:48,201 - INFO - 正在处理视频: 12 Unpleasant Things Seniors Do as They Age That No One Tells You
+2025-05-05 16:37:00,843 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] m3mKv9vcEfU: Requested format is not available. Use --list-formats for a list of available formats，等待 5 秒后重试...
+2025-05-05 16:37:14,268 - INFO - 正在处理视频: 12 Unpleasant Things Seniors Do as They Age That No One Tells You
+2025-05-05 16:37:23,576 - INFO - 成功提取纯文本脚本并保存到: subtitles\12 Unpleasant Things Seniors Do as They Age That No One Tells You
+2025-05-05 16:37:33,196 - INFO - 正在处理视频: 16 Things Making Your Home Look Cluttered After 60
+2025-05-05 16:37:46,301 - INFO - 成功提取纯文本脚本并保存到: subtitles\16 Things Making Your Home Look Cluttered After 60
+2025-05-05 16:37:55,909 - INFO - 正在处理视频: This 5 Simple Walking Trick Is Helping Thousands of Older Adults Stop Falling Fast
+2025-05-05 16:38:04,135 - INFO - 成功提取纯文本脚本并保存到: subtitles\This 5 Simple Walking Trick Is Helping Thousands of Older Adults Stop Falling Fa
+2025-05-05 16:38:14,933 - INFO - 正在处理视频: What Happens If an Elderly Person Has No One to Care for Them? 5 Ways to Stay Safe Living Alone
+2025-05-05 16:38:21,066 - INFO - 成功提取纯文本脚本并保存到: subtitles\What Happens If an Elderly Person Has No One to Care for Them 5 Ways to Stay Saf
+2025-05-05 16:38:28,181 - INFO - 正在处理视频: 6 Better Solutions Than Nursing Homes That Are Both Economical and Happy | Advice for Seniors
+2025-05-05 16:38:34,081 - INFO - 成功提取纯文本脚本并保存到: subtitles\6 Better Solutions Than Nursing Homes That Are Both Economical and Happy  Advice
+2025-05-05 16:38:42,607 - INFO - 正在处理视频: Why Many Seniors Struggle to Live Past 80 - Five Unexpected Reasons That Quietly Shorten Life
+2025-05-05 16:38:49,770 - INFO - 成功提取纯文本脚本并保存到: subtitles\Why Many Seniors Struggle to Live Past 80 - Five Unexpected Reasons That Quietly
+2025-05-05 16:38:57,180 - INFO - 正在处理视频: 20 Items Seniors Can Immediately Declutter from Every Room for a Clutter-Free Home
+2025-05-05 16:39:03,551 - INFO - 成功提取纯文本脚本并保存到: subtitles\20 Items Seniors Can Immediately Declutter from Every Room for a Clutter-Free Ho
+2025-05-05 16:39:10,539 - INFO - 正在处理视频: Seniors, 3 Vegetables You Should NEVER Touch - And 3 You Must Eat (Here's Why) | Senior Health Tips
+2025-05-05 16:39:15,934 - INFO - 成功提取纯文本脚本并保存到: subtitles\Seniors 3 Vegetables You Should NEVER Touch - And 3 You Must Eat Heres Why  Seni
+2025-05-05 16:39:24,526 - INFO - 正在处理视频: Over 50? 4 Nuts You Should Eat & 4 You MUST NEVER Touch! HarmoniqHealth
+2025-05-05 16:39:29,563 - INFO - 成功提取纯文本脚本并保存到: subtitles\Over 50 4 Nuts You Should Eat  4 You MUST NEVER Touch HarmoniqHealth
+2025-05-05 16:39:36,620 - INFO - 正在处理视频: Seniors, WARNING! Stop Taking These 3 Vitamins – They Are Destroying Your Leg Strength |08
+2025-05-05 16:39:41,964 - INFO - 成功提取纯文本脚本并保存到: subtitles\Seniors WARNING Stop Taking These 3 Vitamins  They Are Destroying Your Leg Stren
+2025-05-05 16:39:43,970 - INFO - 处理完成。成功下载 29/29 个视频的内容
+2025-05-06 13:19:28,620 - INFO - 开始处理文件: youtube视频链接/0506.txt
+2025-05-06 13:19:28,626 - INFO - 处理完成。成功下载 0/0 个视频的内容
+2025-05-06 13:21:53,126 - INFO - 开始处理文件: youtube视频链接/0506.txt
+2025-05-06 13:21:55,323 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] -IbfeURaKJ8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies，等待 5 秒后重试...
+2025-05-06 13:22:02,724 - WARNING - 发生错误: [0;31mERROR:[0m [youtube] -IbfeURaKJ8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies，等待 10 秒后重试...
+2025-05-06 13:22:15,089 - ERROR - 处理视频时出错 https://www.youtube.com/watch?v=-IbfeURaKJ8&t=1s: [0;31mERROR:[0m [youtube] -IbfeURaKJ8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-06 13:22:17,092 - INFO - 处理完成。成功下载 0/1 个视频的内容
